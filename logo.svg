@@ -1,0 +1,14 @@
+<svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="220" height="80" rx="12" fill="#007b5e"/>
+  <!-- Graduation Cap -->
+  <polygon points="45,25 75,25 60,40" fill="#fff"/>
+  <rect x="58" y="40" width="4" height="14" fill="#fff"/>
+  <ellipse cx="60" cy="56" rx="3" ry="2" fill="#fff"/>
+  <!-- College Name -->
+  <text x="85" y="44" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#fff" font-weight="bold">
+    Adequate Success
+  </text>
+  <text x="85" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#fff">
+    Online College
+  </text>
+</svg>
